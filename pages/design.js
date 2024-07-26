@@ -1,4 +1,5 @@
 class Designs{
+    // left expansion bar
     leftToolBar(){
         return cy.get('#leftToolbar')
     }
